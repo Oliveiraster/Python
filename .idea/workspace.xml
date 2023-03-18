@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed47568-5211-423b-b3bb-7445642769ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Aulas/Aula006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Aulas/Aula006B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Desafio 02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Desafio 03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Desafio01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 3 Mundo 1/Aulas/Aula006B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Aulas/Aula006B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
   <component name="RecentsManager">
