@@ -1,4 +1,4 @@
-n = int(input('Digite um valor: '))
+n = int(input('Digite um valor:\n '))
 antes = n - 1
 depois = n + 1
 

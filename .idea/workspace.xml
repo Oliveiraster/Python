@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ed47568-5211-423b-b3bb-7445642769ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex010.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
