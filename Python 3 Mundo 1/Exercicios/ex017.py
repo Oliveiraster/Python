@@ -4,4 +4,4 @@ cateto_adjacente = float(input('Valor do cateto adjacente'))
 
 resultado = math.hypot( cateto_oposto , cateto_adjacente)
 
-print(resultado)
+print('o Resultado da hipotenusa será {:.2f}.'.format(resultado))
