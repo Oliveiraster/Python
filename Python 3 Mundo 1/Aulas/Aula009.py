@@ -27,7 +27,7 @@ frase = 'Curso em video python'
 print(frase.count('o'))
 
 frase = 'Curso em video python'
-print(frase.count('o', 0, 13))
+print(frase.count('o', 0, 13 ))
 
 frase = 'Curso em video python'
 print(frase.find('deo'))
