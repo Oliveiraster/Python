@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ed47568-5211-423b-b3bb-7445642769ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Aulas/Aula013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex055.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
       <recent name="C:\Users\Olive\OneDrive\Documentos\Dev I\Repositorios Git &amp; Github\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex050">
+  <component name="RunManager" selected="Python.ex055">
     <configuration name="Aula006B" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex046.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex047.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex052.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex048.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex053.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex049.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex054.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3 Mundo 1/Exercicios/ex055.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex050" />
-        <item itemvalue="Python.ex049" />
-        <item itemvalue="Python.ex048" />
-        <item itemvalue="Python.ex047" />
-        <item itemvalue="Python.ex046" />
+        <item itemvalue="Python.ex055" />
+        <item itemvalue="Python.ex054" />
+        <item itemvalue="Python.ex053" />
+        <item itemvalue="Python.ex026" />
+        <item itemvalue="Python.ex052" />
       </list>
     </recent_temporary>
   </component>
