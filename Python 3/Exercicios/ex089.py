@@ -12,7 +12,7 @@ while True:
 print(f'No.  NOME           MÉDIA')
 print('-' * 30)
 for i, c in enumerate(notas):
-    print(f'{i:<2}   {c[0]:<10}  {(c[1] + c[2]) / 2:>8}')
+    print(f'{i:<2}   {c[0]:<10}  {(c[1] + c[2]) / 2:>8.1f}')
 print('-' * 30)
 while True:
     opcao2 = int(input('Mostrar notas de qual aluno ? (999 interrompe): '))
