@@ -42,4 +42,3 @@ while True:
         print(f'Foi um total de {lista[num]["totalgol"]} gols.')
     if num == 999:
         break
-    
