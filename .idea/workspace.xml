@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ed47568-5211-423b-b3bb-7445642769ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 3/Exercicios/ex101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 3/Exercicios/ex0102.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="C:\Users\Olive\OneDrive\Documentos\Dev I\Repositorios Git &amp; Github\Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex101">
+  <component name="RunManager" selected="Python.ex0102">
     <configuration name="Aula006B" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex0102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3/Exercicios/ex097.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 3/Exercicios/ex0102.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex0102" />
         <item itemvalue="Python.ex101" />
         <item itemvalue="Python.ex100" />
         <item itemvalue="Python.ex099" />
         <item itemvalue="Python.ex098" />
-        <item itemvalue="Python.ex097" />
       </list>
     </recent_temporary>
   </component>
